@@ -1,0 +1,1 @@
+guitar = { name = 'guitar', label = 'guitar', weight = 1, type = 'item', image = 'guitar.png', unique = false, useable = true, shouldClose = false, description = 'guitar' },
